@@ -1,0 +1,2 @@
+rootProject.name='LoggerLibrary'
+include ':app'
