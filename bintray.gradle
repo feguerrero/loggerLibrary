@@ -25,8 +25,8 @@ android {
 ext {
     libraryVersion = '0.0.1'
 
-    bintrayRepo = 'LoggerLibrary'
-    bintrayName = 'LoggerLibrary'
+    bintrayRepo = 'Logger'
+    bintrayName = 'Logger'
 
     publishedGroupId = 'co.condorlabs.loggerlibrary'
     libraryName = 'LoggerLibrary'
